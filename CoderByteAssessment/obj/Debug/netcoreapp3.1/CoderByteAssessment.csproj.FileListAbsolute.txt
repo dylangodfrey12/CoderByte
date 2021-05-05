@@ -1,0 +1,12 @@
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/bin/Debug/netcoreapp3.1/CoderByteAssessment.deps.json
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/bin/Debug/netcoreapp3.1/CoderByteAssessment.runtimeconfig.json
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/bin/Debug/netcoreapp3.1/CoderByteAssessment.runtimeconfig.dev.json
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/bin/Debug/netcoreapp3.1/CoderByteAssessment.dll
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/bin/Debug/netcoreapp3.1/CoderByteAssessment.pdb
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.csprojAssemblyReference.cache
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.AssemblyInfoInputs.cache
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.AssemblyInfo.cs
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.csproj.CoreCompileInputs.cache
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.dll
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.pdb
+/Users/dylangodfrey/Projects/CoderByteAssessment/CoderByteAssessment/obj/Debug/netcoreapp3.1/CoderByteAssessment.genruntimeconfig.cache
